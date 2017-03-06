@@ -1,0 +1,14 @@
+{
+  "name": "myfirstserver",
+  "version": "1.0.0",
+  "description": "My first nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
